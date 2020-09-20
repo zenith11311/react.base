@@ -1,0 +1,10 @@
+.firebase
+.log
+.*.swp
+.*.swo
+.pkgs.installed
+package-lock.json
+node_modules
+package.json
+public
+build
